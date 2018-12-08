@@ -6,7 +6,7 @@ Useful tools:
 objdump
 gdb
 ltrace
-pwntools (python library, can pip install)\n
+pwntools (python library, can pip install)
 strace
 rp++
 
